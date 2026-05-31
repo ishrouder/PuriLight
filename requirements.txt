@@ -1,0 +1,15 @@
+# PuriLightX - Self-Supervised Monocular Depth Estimation
+# Core dependencies
+torch==2.3.1+cu118
+torchvision==0.18.1
+numpy==1.23.1
+opencv-python==4.9.0.80
+Pillow==9.5.0
+matplotlib==9.5.0
+timm==0.9.16
+thop==0.1.1-2209072238
+tqdm==2.0.18
+tensorboardX==2.6.2.2
+scikit-image==0.24.0
+scipy==1.13.0
+yacs==0.1.8
